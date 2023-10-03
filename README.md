@@ -36,10 +36,11 @@ I am a commited web developer. I like music, fitness, and coding. I'm continuous
 * <strong><a href="https://github.com/ciubiadi/RoboApp">RoboApp (React Project)</a></strong> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
 * <strong><a href="https://github.com/ciubiadi/SDA_FinalProject_HappyBudget">Happy Budget (Angular Project)</a></strong> <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a>
 * <strong><a href="https://github.com/ciubiadi/VueJS_CRUD-Table">CRUD Table with VueJS</a></strong> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a>
-* <strong><a href="https://github.com/ciubiadi/Salesforce-Portofolio">Salesforce Practice</a></strong> <a href="https://salesforce.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white"></a>
+* <strong><a href="https://github.com/ciubiadi/Salesforce-Portofolio">Salesforce Practice</a></strong>  <a href="https://salesforce.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white"></a>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ciubiadi&show_icons=true&locale=en&layout=compact&theme=dark" alt="ciubiadi" />
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ciubiadi&show_icons=true&locale=en&theme=dark" alt="ciubiadi" />
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ciubiadi&theme=dark&hide_border=true&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
 <!-- ![Adrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=ciubiadi&show_icons=true&theme=dark) -->
 <!-- ![Adrian's GitHub languages](ttps://github-readme-stats.vercel.app/api/top-langs?username=ciubiadi&show_icons=true&locale=en&layout=compact) -->
 <!--
