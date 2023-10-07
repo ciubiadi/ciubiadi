@@ -40,9 +40,8 @@ I am a commited web developer. I like music, fitness, and coding. I'm continuous
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ciubiadi&show_icons=true&locale=en&layout=compact&theme=dark" alt="ciubiadi" />
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ciubiadi&show_icons=true&locale=en&theme=dark" alt="ciubiadi" />
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ciubiadi&theme=dark)](https://git.io/streak-stats)
-<!-- ![Adrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=ciubiadi&show_icons=true&theme=dark) -->
-<!-- ![Adrian's GitHub languages](ttps://github-readme-stats.vercel.app/api/top-langs?username=ciubiadi&show_icons=true&locale=en&layout=compact) -->
+![Adrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=ciubiadi&show_icons=true&theme=dark)
+![Adrian's GitHub languages](ttps://github-readme-stats.vercel.app/api/top-langs?username=ciubiadi&show_icons=true&locale=en&layout=compact)
 <!--
 ![Danny's GitHub stats](https://github-readme-stats.vercel.app/api?username=ciubiadi&show_icons=true&theme=dark)
 -->
