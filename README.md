@@ -39,6 +39,6 @@ I am a commited web developer. I like music, fitness, and coding. I'm continuous
 * <strong><a href="https://github.com/ciubiadi/Salesforce-Portofolio">Salesforce Practice</a></strong>  <a href="https://salesforce.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white"></a>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ciubiadi&show_icons=true&locale=en&layout=compact&theme=dark" alt="ciubiadi" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ciubiadi&show_icons=true&locale=en&theme=dark" alt="ciubiadi" />
-<a align="center" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ciubiadi&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ciubiadi&show_icons=true&locale=en&theme=dark" alt="ciubiadi" />
+<img align="right" src="https://streak-stats.demolab.com?user=ciubiadi&theme=dark&hide_border=true" alt="GitHub Streak" />
 
