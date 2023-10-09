@@ -41,5 +41,5 @@ I am a commited web developer. I like music, fitness, and coding. I'm continuous
 <div display="inline">
 <img width="26.5%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ciubiadi&show_icons=true&locale=en&layout=compact&theme=dark" alt="ciubiadi" />
 <img width="35%" src="https://github-readme-stats.vercel.app/api?username=ciubiadi&show_icons=true&locale=en&theme=dark" alt="ciubiadi" />
-<img width="37%" src="https://streak-stats.demolab.com?user=ciubiadi&theme=dark" alt="GitHub Streak" />
+<img width="37%" src="https://streak-stats.demolab.com?user=ciubiadi&hide_longest_streak=true&theme=dark" alt="GitHub Streak" />
 </div>
