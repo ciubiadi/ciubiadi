@@ -1,7 +1,7 @@
 <h1 align="center" color="white">Hello 👋, I'm Adrian</h1>
 <h3 align="center" color="white">A passionate full stack web developer from Romania.</h3>
 
-- 🔭 I’m currently working on **Promptopia**
+- 🔭 I’m currently working on **EvolvMe**
 
 - 🌱 I’m currently learning **Next.JS**
 
