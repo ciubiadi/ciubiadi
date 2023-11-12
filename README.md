@@ -1,7 +1,7 @@
 <h1 align="center" color="white">Hello 👋, I'm Adrian</h1>
 <h3 align="center" color="white">A passionate full stack web developer from Romania.</h3>
 
-- 🔭 I’m currently working on <a href="https://github.com/ciubiadi/EvolvMe"><strong>EvolvMe</strong></a>
+- 🔭 I’m currently working on <a href="https://github.com/ciubiadi/EvolvMe"><strong>EvolVMe</strong></a>
 
 - 🌱 I’m currently learning **Next.JS**
 
