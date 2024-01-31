@@ -24,6 +24,17 @@ I am a commited web developer. I like music, fitness, and coding. I'm continuous
 #### Know Basics Of
 <p><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"> </p>
 
+### Certifications and Badges
+<p>
+![2021-03_Badge_SF-Certified_Administrator_High-Res](https://github.com/ciubiadi/ciubiadi/assets/46215033/b65a254d-7658-4cf4-9757-fac77fc68512)
+
+![2023-07_Badge_SF-Certified_AI-Associate_High-Res](https://github.com/ciubiadi/ciubiadi/assets/46215033/39efae5e-0706-4f48-9f01-a7d5d60376cc)
+
+![2021-03_Badge_SF-Certified_Platform-App-Builder_High-Res](https://github.com/ciubiadi/ciubiadi/assets/46215033/66b5ae28-807d-4af4-ac6d-0ea9997f85e9)
+
+![2022-08_Badge_SF-Certified_Associate_High-Res](https://github.com/ciubiadi/ciubiadi/assets/46215033/249e3fac-212e-4e5a-bd5a-e305758ba204)
+</p>
+
 <!-- ## What I Am Learning
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"></p> 
 -->
