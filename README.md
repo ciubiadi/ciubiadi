@@ -46,8 +46,9 @@ I am a commited web developer. I like music, fitness, and coding. I'm continuous
 * <a href="https://github.com/ciubiadi/SDA_FinalProject_HappyBudget">Happy Budget (Angular Project)</a>  &nbsp;  <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="30" height="30"/></a>
 <!--* <strong><a href="https://github.com/ciubiadi/VueJS_CRUD-Table">CRUD Table with VueJS</a></strong> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="30" height="30"/></a> -->
 * <strong><a href="https://github.com/ciubiadi/Salesforce-Portofolio">Salesforce Practice</a></strong>  &nbsp;  <a href="https://salesforce.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white"></a>
-<div display="inline">
+<!-- <div display="inline">
 <img width="26.5%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ciubiadi&show_icons=true&locale=en&layout=compact&theme=dark" alt="ciubiadi" />
 <img width="35%" src="https://github-readme-stats.vercel.app/api?username=ciubiadi&show_icons=true&locale=en&theme=dark" alt="ciubiadi" />
 <img width="37%" src="https://streak-stats.demolab.com?user=ciubiadi&hide_longest_streak=true&theme=dark" alt="GitHub Streak" />
 </div>
+-->
