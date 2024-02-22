@@ -1,5 +1,5 @@
 <h1 align="center" color="white">Hello 👋, I'm Adrian</h1>
-<h3 align="center" color="white">A passionate full stack web developer from Romania.</h3>
+<h3 align="center" color="white">A passionate full stack web developer.</h3>
 
 - 🔭 I’m currently working on achieving <a href="https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer"><strong>IBM Full Stack Software Developer Professional Certificate</strong></a>
 
