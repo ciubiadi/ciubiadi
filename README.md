@@ -32,11 +32,7 @@ I am a commited web developer. I like music, fitness, and coding. I'm continuous
 <img src="https://github.com/ciubiadi/ciubiadi/assets/46215033/66b5ae28-807d-4af4-ac6d-0ea9997f85e9" width="70" height="70" /> 
 <img src="https://github.com/ciubiadi/ciubiadi/assets/46215033/39efae5e-0706-4f48-9f01-a7d5d60376cc" width="70" height="70" /> 
 <img src="https://github.com/ciubiadi/ciubiadi/assets/46215033/249e3fac-212e-4e5a-bd5a-e305758ba204" width="70" height="70" /> 
-<img src="https://github.com/ciubiadi/ciubiadi/assets/46215033/01b5f8ca-c990-4946-b002-4fb3b3e29c0c" width="70" height="70" /> aanother
-<img src="https://github.com/ciubiadi/ciubiadi/assets/46215033/97ed6ac4-f34f-4227-8765-59e2a86fdd52" width="70" height="70" /> test
-![Badge_Microsoft_Certified_Fundamentals](https://github.com/ciubiadi/ciubiadi/assets/46215033/97ed6ac4-f34f-4227-8765-59e2a86fdd52) last
-
-  
+<img src="https://github.com/ciubiadi/ciubiadi/assets/46215033/97ed6ac4-f34f-4227-8765-59e2a86fdd52" width="70" height="70" /> 
 </p>
 
 <!-- ## What I Am Learning
