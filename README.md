@@ -33,6 +33,7 @@ I am a commited web developer. I like music, fitness, and coding. I'm continuous
 <img src="https://github.com/ciubiadi/ciubiadi/assets/46215033/39efae5e-0706-4f48-9f01-a7d5d60376cc" width="70" height="70" /> 
 <img src="https://github.com/ciubiadi/ciubiadi/assets/46215033/249e3fac-212e-4e5a-bd5a-e305758ba204" width="70" height="70" /> 
 <img src="https://github.com/ciubiadi/ciubiadi/assets/46215033/01b5f8ca-c990-4946-b002-4fb3b3e29c0c" width="70" height="70" />
+  [Microsoft Dynamics 365 CRM Certification.pdf](https://github.com/ciubiadi/ciubiadi/files/14827717/Microsoft.Dynamics.365.CRM.Certification.pdf)
 </p>
 <!-- ## What I Am Learning
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"></p> 
