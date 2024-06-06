@@ -28,6 +28,7 @@ I am a commited web developer. I like music, fitness, and coding. I'm continuous
 <p> 
 <img src="https://github.com/ciubiadi/ciubiadi/assets/46215033/b4e61426-3458-4554-8442-bc73a781aff5" width="70" height="70" />
 <img src="https://github.com/ciubiadi/ciubiadi/assets/46215033/8d304d23-8648-46d8-b038-2fadd9750d56" width="70" height="70" />
+<img src="https://github.com/ciubiadi/ciubiadi/assets/46215033/86673762-e927-4a83-b9b4-ae79dea599bc" width="70" height="70" /> 
 <img src="https://github.com/ciubiadi/ciubiadi/assets/46215033/b65a254d-7658-4cf4-9757-fac77fc68512" width="70" height="70" /> 
 <img src="https://github.com/ciubiadi/ciubiadi/assets/46215033/66b5ae28-807d-4af4-ac6d-0ea9997f85e9" width="70" height="70" /> 
 <img src="https://github.com/ciubiadi/ciubiadi/assets/46215033/39efae5e-0706-4f48-9f01-a7d5d60376cc" width="70" height="70" /> 
